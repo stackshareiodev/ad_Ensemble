@@ -1,8 +1,8 @@
 repo_name: stackshareiodev/ad_Ensemble
-report_id: a7089405c461f0f30ea282748406c1e0
+report_id: b242161b4f50ab53df255a5d9c430160
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-09T13:06:07+00:00'
+timestamp: '2024-02-12T10:28:31+00:00'
 requested_by: saagarjha
 provider: github
 branch: main
@@ -19,7 +19,7 @@ tools:
   detection_source_url: https://github.com/stackshareiodev/ad_Ensemble
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
